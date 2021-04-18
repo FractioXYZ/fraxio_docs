@@ -3,6 +3,7 @@
 console.log("Hello world");
 // @author: stereoIII6
 // @name: frax.io
+// @description: Dynamic Multilayer NFT Framework
 // @version: 0.0.1
 // @license: MIT
 // @birth: 2021
