@@ -15,5 +15,5 @@ console.log("Hello world");
 
 ## TPNG Tokens [ERC20-LP]
 
-##MILK Tokens [ERC721]
+## MILK Tokens [ERC721]
 
